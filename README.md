@@ -215,6 +215,3 @@ This will:
 * Regime-based covariance estimation
 * Downside risk optimization (CVaR)
 * Dynamic rebalancing framework
-
-
-Just tell me — this is one of your **strongest portfolio projects**.
