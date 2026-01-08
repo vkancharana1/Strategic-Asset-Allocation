@@ -1,0 +1,36 @@
+Asset,Weight,Category
+Cash & Short-Term,0.03000000000000002,Cash
+Treasuries,2.2057927530616778e-17,Other
+Treasuries 1-5 yrs,0.0,Other
+Treasuries 5-10 yrs,5.746306624139532e-17,Other
+Treasuries 10-20 yrs,0.0,Other
+Treasuries 20+ yrs,0.0,Other
+Government Bonds 1-10 yrs,0.0,Core Fixed Income
+Government Bonds 10+ yrs,0.12000000000000006,Core Fixed Income
+Agency RMBS,0.0,Credit
+CMBS,0.0,Credit
+ABS,0.0,Credit
+US Fixed Income,0.0,Credit
+IG Corporates 1-10 yrs,0.0,Credit
+IG Corporates 10+ yrs,2.1341338304165933e-18,Credit
+US IG Corporates,0.0,Credit
+US Corp A/above,0.0,Credit
+US Corp A/above 1-5 yrs,0.0,Credit
+US Corp A/above 5-10 yrs,0.0,Credit
+US Corp A/above 10-20 yrs,0.0,Credit
+US Corp A/above 20+ yrs,0.0,Credit
+US Corp BBB,0.0,Credit
+US Corp BBB 1-5 yrs,2.3387401314174743e-17,Credit
+US Corp BBB 5-10 yrs,2.0542634747805566e-17,Credit
+US Corp BBB 10-20 yrs,0.0,Credit
+US Corp BBB 20+ yrs,1.437413241898864e-17,Credit
+US HY,0.0,Credit
+CLOs,0.0,Credit
+Bank Loans,3.561219028818285e-17,Credit
+US Equity,1.3877787807814457e-17,Global Equities
+DM ex US Equity,0.5000000000000004,Global Equities
+EM Equity,0.0,Global Equities
+Real Estate,0.15000000000000002,Real Assets
+Private Debt,0.15000000000000016,Credit
+Private Equity,0.0,Global Equities
+Hedge Funds,0.05000000000000005,Hedge Funds

@@ -1,0 +1,36 @@
+Asset,Weight,Category
+Cash & Short-Term,0.04999999999999997,Cash
+Treasuries,4.8477780400139575e-17,Other
+Treasuries 1-5 yrs,0.0,Other
+Treasuries 5-10 yrs,0.06566841721855025,Other
+Treasuries 10-20 yrs,9.166818270910905e-19,Other
+Treasuries 20+ yrs,2.6316862988480616e-17,Other
+Government Bonds 1-10 yrs,5.898059818321144e-17,Core Fixed Income
+Government Bonds 10+ yrs,0.21433158278144976,Core Fixed Income
+Agency RMBS,1.04797140329112e-16,Credit
+CMBS,0.0,Credit
+ABS,7.731474574200614e-17,Credit
+US Fixed Income,1.7161670613112325e-17,Credit
+IG Corporates 1-10 yrs,3.6501932132000725e-17,Credit
+IG Corporates 10+ yrs,0.0,Credit
+US IG Corporates,0.0,Credit
+US Corp A/above,6.767307286926837e-17,Credit
+US Corp A/above 1-5 yrs,2.466165134555546e-17,Credit
+US Corp A/above 5-10 yrs,0.0,Credit
+US Corp A/above 10-20 yrs,0.0,Credit
+US Corp A/above 20+ yrs,0.0,Credit
+US Corp BBB,0.0,Credit
+US Corp BBB 1-5 yrs,0.0,Credit
+US Corp BBB 5-10 yrs,0.0,Credit
+US Corp BBB 10-20 yrs,0.0,Credit
+US Corp BBB 20+ yrs,0.0,Credit
+US HY,2.1544294052302852e-17,Credit
+CLOs,0.0,Credit
+Bank Loans,9.514605180294576e-17,Credit
+US Equity,9.200341828693482e-17,Global Equities
+DM ex US Equity,0.35,Global Equities
+EM Equity,0.0,Global Equities
+Real Estate,0.12000000000000004,Real Assets
+Private Debt,0.19999999999999984,Credit
+Private Equity,4.613126532080051e-17,Global Equities
+Hedge Funds,1.5132774848444972e-17,Hedge Funds
